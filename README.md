@@ -1,5 +1,5 @@
 # LITA_Test_Run
-This is an execution using what I learned about using GitHub in the Data Analysis Bootcamp by The Incubator Hub.
+This is an execution using what I learned about using GitHub, during the Data Analysis Bootcamp by The Incubator Hub.
 
 ## Project Title: Humanitarian Intervention in the 21st Century: Ethical Dilemmas, Legal Complexities and Effective Responses
 ### Summary, Conclusion and Recommendations
