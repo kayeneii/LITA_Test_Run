@@ -2,7 +2,7 @@
 This is an execution using what I learned about using GitHub, during the Data Analysis Bootcamp by The Incubator Hub.
 
 ## Project Title: Humanitarian Intervention in the 21st Century: Ethical Dilemmas, Legal Complexities and Effective Responses
-### Summary, Conclusion and Recommendations
+### Summary, Conclusion and Recommendations [Find Me Here] (https://www.linkedin.com/in/kayeneii)
 
 ### Summary
 The purpose of this study was to examine the concept and practice of humanitarian intervention in the 21st Century, through the lens of the Gaza Conflict, having analyzed the factors constituting ethical and legal dilemmas (ranging from bias in historical narratives of Israel/Palestinian rights to the Gaza Strip, geopolitical interests of states, and the influence of culture and religion) as relates to the applicability of interventions.
