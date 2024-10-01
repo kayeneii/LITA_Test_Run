@@ -25,3 +25,5 @@ The following recommendations are offered from the findings of the study:
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+[Map.docx](https://github.com/user-attachments/files/17215528/Map.docx)
