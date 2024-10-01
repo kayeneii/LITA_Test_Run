@@ -2,7 +2,13 @@
 This is an execution using what I learned about using GitHub, during the Data Analysis Bootcamp by The Incubator Hub.
 
 ## Project Title: Humanitarian Intervention in the 21st Century: Ethical Dilemmas, Legal Complexities and Effective Responses (A Case Study of the Gaza Conflict)
-### Summary, Conclusion and Recommendations [Find Me Here](https://www.linkedin.com/in/kayeneii)
+[Summary](#summary)
+
+[Conclusion](#conclusion)
+
+[Recommendations](#recommendations)
+
+[Find Me Here](https://www.linkedin.com/in/kayeneii)
 
 ### Summary
 ---
@@ -27,3 +33,10 @@ WHERE CONDITION = TRUE
 ```
 
 [Map.docx](https://github.com/user-attachments/files/17215528/Map.docx)
+
+🗺️ 🌏 ☮️
+
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
