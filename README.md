@@ -1,7 +1,7 @@
 # LITA_Test_Run
 This is an execution using what I learned about using GitHub, during the Data Analysis Bootcamp by The Incubator Hub.
 
-## Project Title: Humanitarian Intervention in the 21st Century: Ethical Dilemmas, Legal Complexities and Effective Responses
+## Project Title: Humanitarian Intervention in the 21st Century: Ethical Dilemmas, Legal Complexities and Effective Responses (A Case Study of the Gaza Conflict)
 ### Summary, Conclusion and Recommendations [Find Me Here](https://www.linkedin.com/in/kayeneii)
 
 ### Summary
